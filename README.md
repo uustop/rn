@@ -9,3 +9,4 @@ Edit Info.plist and add a property called Fonts provided by application (or UIAp
 XCode screenshot
 5.react-native run-android # or:
 react-native run-ios
+加入图标
